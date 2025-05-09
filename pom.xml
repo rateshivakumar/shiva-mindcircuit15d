@@ -13,16 +13,15 @@
 		<sonar.host.url>http://3.83.18.215:9000/</sonar.host.url>
 
 	</properties>
-
-	<distributionManagement>
+<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
-		    <url>http://54.205.185.238:8081/repository/batch15-repo-snapshot/</url>
+		    <url>http://54.227.13.173:8081/repository/b15-repo-snapshort/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>NexusRepo</id>
-		    <url>http://54.205.185.238:8081/repository/batch15-repo-release/</url>
+		    <url>http://54.227.13.173:8081/repository/b15-repo-release/</url>
 		</repository>
   	</distributionManagement>
 
