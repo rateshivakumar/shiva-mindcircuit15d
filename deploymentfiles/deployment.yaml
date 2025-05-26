@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: rateshivakumar/b15repo:tag
+          image: rateshivakumar/b15repo:4
           ports:
             - containerPort: 8080
       
